@@ -1,0 +1,17 @@
+div.column {
+  width: 33%;
+}
+.border-lr {
+  border-left: 1px solid;
+  border-right: 1px solid;
+}
+h1 {
+  border-bottom: 1px solid;
+}
+h2 {
+  border-bottom:  none;
+}
+
+table {
+  border-collapse: unset;
+}
