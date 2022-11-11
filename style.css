@@ -15,3 +15,7 @@ h2 {
 table {
   border-collapse: unset;
 }
+
+h1.title{
+  border-bottom: none;
+}
