@@ -91,29 +91,29 @@ css: style.css
 
 导师：张春田 教授
 
-  使用DNA条形码技术识别和鉴定双翅目寄蝇科 Tachinidae 昆虫，探究分子种和形态种存在分歧的物种是否存隐存种，并且通过对比不同分子鉴定方法在寄蝇科昆虫中的鉴定结果和形态种一致的比例来寻找最适合寄蝇科昆虫的分子鉴定方法。
+  使用 DNA 条形码技术识别和鉴定双翅目寄蝇科 Tachinidae 昆虫，探究分子种和形态种存在分歧的物种是否存隐存种，并且通过对比不同分子鉴定方法在寄蝇科昆虫中的鉴定结果和形态种一致的比例来寻找最适合寄蝇科昆虫的分子鉴定方法。
 
-## 学术活动 Academic Activities
+## 学术活动 Academic Activity
 
 生物系统学论坛 <text style="float:right">2016、2017、2018</text>
 
 中国昆虫学会分类与区系学术会议 <text style="float:right">2015</text>
 
-## 参与项目 Participated Projects
+## 参与项目 Participated Project
 
-1.  国家自然科学基金重点项目32130012，脉翅总目昆虫的系统演化：争议节点类群系统地位的确立及多样性的演化格局 <text style="float:right">2022--2026</text>
+1.  国家自然科学基金重点项目 32130012，脉翅总目昆虫的系统演化：争议节点类群系统地位的确立及多样性的演化格局 <text style="float:right">2022--2026</text>
 
-2.  科技部科技基础资源调查专项课题2019FY1004002，双翅目半翅目草原有害昆虫多样性调查 <text style="float:right">2020-2024</text>
+2.  科技部科技基础资源调查专项课题 2019FY1004002，双翅目半翅目草原有害昆虫多样性调查 <text style="float:right">2020-2024</text>
 
-3.  国家自然科学基金面上项目31970444，中国驼舞虻亚科分类和系统发育研究 <text style="float:right">2020--2023</text>
+3.  国家自然科学基金面上项目 31970444，中国驼舞虻亚科分类和系统发育研究 <text style="float:right">2020--2023</text>
 
-4.  国家自然科学基金应急管理项目31750002，中国动物志 双翅目寄蝇科突颜寄蝇亚科 <text style="float:right">2018--2022</text>
+4.  国家自然科学基金应急管理项目 31750002，中国动物志 双翅目寄蝇科突颜寄蝇亚科 <text style="float:right">2018--2022</text>
 
-5.  科技部国家重点研发计划-重点专项子课题2017YFD0201001-1，双翅目及脉翅目天敌资源挖掘与信息/数据库构建 <text style="float:right">2017--2020</text>
+5.  科技部国家重点研发计划-重点专项子课题 2017YFD0201001-1，双翅目及脉翅目天敌资源挖掘与信息/数据库构建 <text style="float:right">2017--2020</text>
 
-6.  科技部xxx专项课题，动物标本标准化整理与数字化表达2005DKA21402 <text style="float:right">2017、2018、2019</text>
+6.  科技部xxx专项课题，动物标本标准化整理与数字化表达 2005DKA21402 <text style="float:right">2017、2018、2019</text>
 
-## 野外采集经历 Experiences of field collection
+## 野外采集经历 Experience of field collection
 
 青海门源、互助 <text style="float:right">2019</text>
 
@@ -137,7 +137,7 @@ css: style.css
 # **发表文章** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Publication</text>
 
 ::: {style="text-align:justify"}
-1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. (SCI 1区Top期刊, IF=9.16)
+1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. (SCI 1 区 Top 期刊, IF=9.16)
 
 2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (准备投稿)
 
@@ -149,25 +149,31 @@ css: style.css
 
 6.  **Li, X.**, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., & Yang, D. (2017). Mitochondrial genome analysis of *Ectophasia* *rotundiventris* (Diptera, Tachinidae). **Mitochondrial DNA Part B**, 2(2), 457--458. (SCI 4区 0.61)
 
-7.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4区 0.61)
+7.  Yang, Q.^\#^, **Li, X.**^\#^, Li, Z., Pan, Z., & Yang, D. (2019). The mitochondrial genome analysis of *Trypetoptera punctulata* (Diptera: Sciomyzidae). **Mitochondrial DNA Part B**, 4(1), 97--98. (共一, SCI 4区 0.61)
 
-8.  Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4区 0.61)
+8.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4区 0.61)
 
-9.  Hou, P., **Li, X.**, Yang, D., & Zhang, C. (2018). Taxonomic study of *Gonia* Meigen (Diptera: Tachinidae) from China. **Zoological Systematics**, 43(03), 64--78.
+9.  Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4区 0.61)
+
+10. Hou, P., **Li, X.**, Yang, D., & Zhang, C. (2018). Taxonomic study of *Gonia* Meigen (Diptera: Tachinidae) from China. **Zoological Systematics**, 43(03), 64--78.
 :::
 
 # **自我评价** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Self-evaluation</text>
 
--   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表多篇SCI论文。
+::: {style="text-align:justify"}
+-   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表多篇 SCI 论文。
 
 -   熟练掌握办公、科研、编书所用的软件。在读期间参与多部著作的编写，曾深度参与《东北地区寄蝇科昆虫》（科学出版社）一书的编写和格式的建立与修改。
 
--   熟练掌握Linux系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程20余篇，整理60余篇系统发育分析所需Linux系统的相关知识点。
+-   熟练掌握 Linux 系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
 
--   具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表SCI一区文章1篇。
+-   具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表 SCI 一区文章1篇。
 
 -   学习能力强，思维逻辑性强，善于接受新知识。
 
 -   有比较强的团队沟通和组织能力。
 
 -   本人也愿意继续学习新的其它领域的知识和技能。
+:::
+
+# [下载 PDF 版本](lx-cv.pdf) {.download-header style="float:right"}

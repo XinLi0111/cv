@@ -19,3 +19,7 @@ table {
 h1.title{
   border-bottom: none;
 }
+
+h1.download-header {
+  border-bottom: none;
+}
