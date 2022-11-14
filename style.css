@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Elephant;
+  src: url(/fonts/Elephant.ttf)
+}
 div.column {
   width: 33%;
 }
@@ -18,8 +22,32 @@ table {
 
 h1.title{
   border-bottom: none;
+  color: white;
+}
+
+h1 {
+  color: goldenrod;
+}
+h1>text {
+    font-family: Elephant;
 }
 
 h1.download-header {
   border-bottom: none;
+}
+
+text.normal {
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight)
+}
+/ * fix class normal font-size in toc * /
+nav#TOC text.normal {
+    font-size: 0.875rem;
+}
+[id^='toc-'] text.normal {
+    font-size: 0.875rem;
+}
+
+[id^='toc-'] text {
+    display: none;
 }

@@ -1,7 +1,7 @@
 ---
 title: "李新个人简历"
 format: html
-title-block-banner: true
+title-block-banner: false
 lang: zh
 mainfont: "HarmonyOS Sans SC"
 theme: cosmo
@@ -11,7 +11,7 @@ toc: true
 css: style.css
 ---
 
-# **个人资料** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Personal</text>
+# **个人资料** <text style="float:right;font-variant:small-caps;">Personal</text>
 
 ![](lx-profile.png){style="float: right;" fig-align="right" width="200"}
 
@@ -29,7 +29,7 @@ css: style.css
 
 **电  话**：17810266110
 
-# **教育经历** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Education</text> {style="margin-bottom: 30px"}
+# **教育经历** <text style="float:right;font-variant:small-caps;">Education</text> {style="margin-bottom: 30px"}
 
 ::: columns
 ::: {.column style="text-align: center"}
@@ -63,7 +63,7 @@ css: style.css
 :::
 :::
 
-# **所获荣誉** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Award</text>
+# **所获荣誉** <text style="float:right;font-variant:small-caps;">Award</text>
 
 中国农业大学**·**大北农励志奖学金 <text style="float:right">2021--2022学年</text>
 
@@ -77,29 +77,35 @@ css: style.css
 
 沈阳师范大学**·**学业三等奖学金 <text style="float:right">2015--2016学年</text>
 
-# **学术经历** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Academic Experience</text>
+# **学术经历** <text style="float:right;font-variant:small-caps;">Academic Experience</text>
 
-## 昆虫系统学与进化实验室
+## 研究方向
 
-导师：杨 定 教授
+### 博士阶段
 
-  使用线粒体全基因组数据重建双翅目家蝇科 Muscidae 亚科间系统发育关系，并基于新的系统发育树重新估计家蝇科及其亚科的分歧时间。
+双翅目家蝇科 Muscidae 系统分类（形态分类与系统发育）
 
-  与国外导师 John J. Wiens 合作。基于谱系地理研究中昆虫隐存种的比例，结合动植物、线虫、细菌和昆虫之间的关系，估计全球生物多样性。并通过降低由于相关研究准入条件造成的偏差和不同的数据处理方式验证了数据的稳定性和合理性。
+导师：杨 定 教授
 
-## 辽宁省进化与生物多样性重点实验室
+  鉴定家蝇科 Muscidae 标本并提取线粒体全基因组数据重建家蝇科的亚科间系统发育关系，并基于新的系统发育树重新估计家蝇科及其亚科的分歧时间。
+
+  与国外导师 John J. Wiens (University of Arizona) 合作。基于谱系地理研究中昆虫隐存种的比例，结合动植物、线虫、细菌和昆虫之间的关系，估计全球生物多样性。降低了由于相关研究准入条件造成的偏差且通过不同的数据处理方式验证了数据的稳定性和合理性。
+
+### 硕士阶段
+
+双翅目寄蝇科 Tachinidae 分类（形态分类和分子鉴定）
 
 导师：张春田 教授
 
-  使用 DNA 条形码技术识别和鉴定双翅目寄蝇科 Tachinidae 昆虫，探究分子种和形态种存在分歧的物种是否存隐存种，并且通过对比不同分子鉴定方法在寄蝇科昆虫中的鉴定结果和形态种一致的比例来寻找最适合寄蝇科昆虫的分子鉴定方法。
+  使用全部经过形态鉴定的寄蝇科 Tachinidae 标本提取 DNA 条形码序列，然后通过 DNA 条形码技术鉴定，探究现有形态种中是否存在隐存种，并且通过对比不同分子鉴定方法中的鉴定结果和形态种一致的比例来寻找最适合寄蝇科昆虫的分子鉴定方法。
 
-## 学术活动 Academic Activity
+## 学术会议
 
 生物系统学论坛 <text style="float:right">2016、2017、2018</text>
 
 中国昆虫学会分类与区系学术会议 <text style="float:right">2015</text>
 
-## 参与项目 Participated Project
+## 参与项目
 
 1.  国家自然科学基金重点项目 32130012，脉翅总目昆虫的系统演化：争议节点类群系统地位的确立及多样性的演化格局 <text style="float:right">2022--2026</text>
 
@@ -111,9 +117,9 @@ css: style.css
 
 5.  科技部国家重点研发计划-重点专项子课题 2017YFD0201001-1，双翅目及脉翅目天敌资源挖掘与信息/数据库构建 <text style="float:right">2017--2020</text>
 
-6.  科技部xxx专项课题，动物标本标准化整理与数字化表达 2005DKA21402 <text style="float:right">2017、2018、2019</text>
+6.  国家科技基础条件平台工作重点项目，动物标本标准化整理与数字化表达 2005DKA21402 <text style="float:right">2017、2018、2019</text>
 
-## 野外采集经历 Experience of field collection
+## 野外采集经历
 
 青海门源、互助 <text style="float:right">2019</text>
 
@@ -123,10 +129,10 @@ css: style.css
 
 广西金秀猫儿山、湖北十堰 <text style="float:right">2015</text>
 
-# **专业技能** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Professional Skill</text>
+# **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
 |            |                                                                                                                                                                                                                                                                      |
-|----------------|--------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
 | 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
 | 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
@@ -134,40 +140,40 @@ css: style.css
 | 相关证书   | 英语 CET 四级 507 / 六级 519、CET 口语 C+、国家计算机二级、高级中学教师资格证、普通话二级甲等。                                                                                                                                                                      |
 | 相关课程   | 生物信息学、生物统计学、昆虫生物地理、昆虫分类学、专业英语、教育学、心理学、生物学教学论。                                                                                                                                                                           |
 
-# **发表文章** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Publication</text>
+# **发表文章** <text style="float:right;font-variant:small-caps;">Publication</text>
 
 ::: {style="text-align:justify"}
-1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. (SCI 1 区 Top 期刊, IF=9.16)
+1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
-2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (准备投稿)
+2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (SCI 2区, 准备投稿)
 
-3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4区 0.61)
+3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4区, 5yIF=0.628)
 
-4.  **Li, X.**, Zhou, J., Wang, L., Hou, P., & Yang, D. (2020). The mitochondrial genome of *Prosthiochaeta* sp. (Diptera: Platystomatidae). **Mitochondrial DNA Part B**, 5(3), 2557--2558. (SCI 4区 0.61)
+4.  **Li, X.**, Zhou, J., Wang, L., Hou, P., & Yang, D. (2020). The mitochondrial genome of *Prosthiochaeta* sp. (Diptera: Platystomatidae). **Mitochondrial DNA Part B**, 5(3), 2557--2558. (SCI 4区, 5yIF=0.628)
 
-5.  **Li, X.**, Wang, L., Li, Z., Hou, P., & Yang, D. (2019). The mitochondrial genome of *Formicosepsis* sp. (Diptera: Cypselosomatidae). **Mitochondrial DNA Part B**, 4(2), 2140--2141. (SCI 4区 0.61)
+5.  **Li, X.**, Wang, L., Li, Z., Hou, P., & Yang, D. (2019). The mitochondrial genome of *Formicosepsis* sp. (Diptera: Cypselosomatidae). **Mitochondrial DNA Part B**, 4(2), 2140--2141. (SCI 4区, 5yIF=0.628)
 
-6.  **Li, X.**, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., & Yang, D. (2017). Mitochondrial genome analysis of *Ectophasia* *rotundiventris* (Diptera, Tachinidae). **Mitochondrial DNA Part B**, 2(2), 457--458. (SCI 4区 0.61)
+6.  **Li, X.**, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., & Yang, D. (2017). Mitochondrial genome analysis of *Ectophasia* *rotundiventris* (Diptera, Tachinidae). **Mitochondrial DNA Part B**, 2(2), 457--458. (SCI 4区, 5yIF=0.628)
 
-7.  Yang, Q.^\#^, **Li, X.**^\#^, Li, Z., Pan, Z., & Yang, D. (2019). The mitochondrial genome analysis of *Trypetoptera punctulata* (Diptera: Sciomyzidae). **Mitochondrial DNA Part B**, 4(1), 97--98. (共一, SCI 4区 0.61)
+7.  Yang, Q.^\#^, **Li, X.**^\#^, Li, Z., Pan, Z., & Yang, D. (2019). The mitochondrial genome analysis of *Trypetoptera punctulata* (Diptera: Sciomyzidae). **Mitochondrial DNA Part B**, 4(1), 97--98. (共一, SCI 4区, 5yIF=0.628)
 
-8.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4区 0.61)
+8.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4区, 5yIF=0.628)
 
-9.  Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4区 0.61)
+9.  Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4区, 5yIF=0.628)
 
 10. Hou, P., **Li, X.**, Yang, D., & Zhang, C. (2018). Taxonomic study of *Gonia* Meigen (Diptera: Tachinidae) from China. **Zoological Systematics**, 43(03), 64--78.
 :::
 
-# **自我评价** <text style="float:right;font-variant:small-caps;font-family:'Times New Roman';">Self-evaluation</text>
+# **自我评价** <text style="float:right;font-variant:small-caps;">Self-evaluation</text>
 
 ::: {style="text-align:justify"}
 -   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表多篇 SCI 论文。
 
--   熟练掌握办公、科研、编书所用的软件。在读期间参与多部著作的编写，曾深度参与《东北地区寄蝇科昆虫》（科学出版社）一书的编写和格式的建立与修改。
-
 -   熟练掌握 Linux 系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
 
--   具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表 SCI 一区文章1篇。
+-   具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表 SCI 一区文章 1 篇。
+
+-   熟练掌握办公、科研、编书所用的软件。在读期间参与多部著作的编写，曾深度参与《东北地区寄蝇科昆虫》（科学出版社）一书的编写和格式的建立与修改。
 
 -   学习能力强，思维逻辑性强，善于接受新知识。
 
@@ -176,4 +182,4 @@ css: style.css
 -   本人也愿意继续学习新的其它领域的知识和技能。
 :::
 
-# [下载 PDF 版本](lx-cv.pdf) {.download-header style="float:right"}
+# [下载 PDF](lx-cv.pdf) {.download-header style="float:right"}
