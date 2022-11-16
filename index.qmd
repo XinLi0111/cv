@@ -134,7 +134,7 @@ css: style.css
 # **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
 |            |                                                                                                                                                                                                                                                                      |
-|-------------|----------------------------------------------------------------|
+|------------|------------------------------------------------------------|
 | 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
 | 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
 | 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
@@ -145,7 +145,8 @@ css: style.css
 # **发表文章** <text style="float:right;font-variant:small-caps;">Publication</text>
 
 ::: {style="text-align:justify"}
-1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. (**SCI 1 区 Top 期刊, 5yIF=14.478**)
+1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. \
+    DOI: <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
 2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (SCI 2区, 5yIF=3.286, 准备投稿)
 
@@ -171,7 +172,7 @@ css: style.css
 
 13. Hou, P., **Li, X.**, Yang, D., & Zhang, C. (2018). Taxonomic study of *Gonia* Meigen (Diptera: Tachinidae) from China. **Zoological Systematics**, 43(3), 294--308.
 
-14. 智妍, **李新**, 刘家宇, 葛振萍, 赵喆, & 张春田. (2016). 基于28S rRNA基因序列的中国寄蝇亚科部分种类分子系统发育研究（双翅目：寄蝇科）. **基因组学与应用生物学**, 35(8), 1999--2006. (核心期刊)
+14. 智妍, **李新**, 刘家宇, 葛振萍, 赵喆, & 张春田. (2016). 基于 28S rRNA 基因序列的中国寄蝇亚科部分种类分子系统发育研究（双翅目：寄蝇科）. **基因组学与应用生物学**, 35(8), 1999--2006. (核心期刊)
 
 15. Hou, P., Wang, L., **Li, X.**, & Yang, D. (2020). First mitochondrial genome of *Euprosopia* sp. (Diptera: Platystomatidae). **Mitochondrial DNA Part B**, 5(1), 723--724. (SCI 4区, 5yIF=0.628)
 
@@ -181,13 +182,15 @@ css: style.css
 
 18. Wang, L., Ding, S., Cameron, S. L., **Li, X.**, Liu, Y., Yao, G., & Yang, D. (2022). Middle Jurassic origin in India: a new look at evolution of Vermileonidae and time-scaled relationships of lower brachyceran flies. **Zoological Journal of the Linnean Society**, 194(3), 938--959. (SCI 2区, 5yIF=3.461)
 
-19. 侯鹏, 张春田, 王强, 范宏烨, **李新**. (2018) 寄蝇科, 329--353. 石福明, 王建军等著：**历山昆虫与蛛形动物**, 北京: 科学出版社, ix+613 pp.+12pls.
+19. **李新** (作者): 刺股蝇科. 杨定, 姚刚等 (2022). **浙江昆虫志第九卷双翅目短角亚目**, 北京: 科学出版社, 1--402 + 24图版.
 
-20. **李新** (编委, 作者): 寄蝇亚科, 追寄蝇亚科部分, 总论, 图版部分. 张春田等 (2016)《**东北地区寄蝇科昆虫**》, 北京: 科学出版社, 1--698 + XVI图版.
+20. **李新** (编委, 作者): 寄蝇亚科, 追寄蝇亚科部分, 总论, 图版部分. 张春田等 (2016). **东北地区寄蝇科昆虫**, 北京: 科学出版社, 1--698 + 14 图版.
 
-21. 梁厚灿, 李赫男, 武鹏峰, 张焱森, **李新**, 孙琦, 李冰, 张怡卓, & 张春田. (2016). 辽宁浑河源自然保护区寄蝇科昆虫区系资源. **环境昆虫学报**, 38(06), 1214--1223. (核心期刊)
+21. 侯鹏, 张春田, 王强, 范宏烨, **李新**. 寄蝇科, 329--353. 石福明, 王建军等 (2018). **历山昆虫与蛛形动物**, 北京: 科学出版社, 1--613 + 12 图版.
 
-22. 张春田, 许雯婧, 张焱森, 梁厚灿, **李新**, & 李赫男. (2015). 辽宁白狼山国家级自然保护区寄蝇资源调查报告. **环境昆虫学报**, 37(4), 726--734. (核心期刊)
+22. 梁厚灿, 李赫男, 武鹏峰, 张焱森, **李新**, 孙琦, 李冰, 张怡卓, & 张春田. (2016). 辽宁浑河源自然保护区寄蝇科昆虫区系资源. **环境昆虫学报**, 38(6), 1214--1223. (核心期刊)
+
+23. 张春田, 许雯婧, 张焱森, 梁厚灿, **李新**, & 李赫男. (2015). 辽宁白狼山国家级自然保护区寄蝇资源调查报告. **环境昆虫学报**, 37(4), 726--734. (核心期刊)
 :::
 
 # **自我评价** <text style="float:right;font-variant:small-caps;">Self-evaluation</text>
