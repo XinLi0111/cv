@@ -146,7 +146,7 @@ css: style.css
 
 ::: {style="text-align:justify"}
 1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. \
-    DOI: <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
+    <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
 2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (SCI 2区, 5yIF=3.286, 准备投稿)
 
