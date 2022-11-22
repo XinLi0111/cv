@@ -107,7 +107,7 @@ css: style.css
 
 中国昆虫学会分类与区系学术会议 <text style="float:right">2015</text>
 
-## 参与项目
+## 参与项目（6 项）
 
 1.  国家自然科学基金重点项目 32130012，脉翅总目昆虫的系统演化：争议节点类群系统地位的确立及多样性的演化格局 <text style="float:right">2022--2026</text>
 
@@ -121,20 +121,20 @@ css: style.css
 
 6.  国家科技基础条件平台工作重点项目，动物标本标准化整理与数字化表达 2005DKA21402 <text style="float:right">2017、2018、2019</text>
 
-## 野外采集经历
+## 野外采集经历（7 省）
 
 青海门源、互助 <text style="float:right">2019</text>
 
-陕西秦岭山脉、北京门头沟灵山 <text style="float:right">2018</text>
+陕西秦岭山脉，北京门头沟灵山 <text style="float:right">2018</text>
 
 云南绿春黄连山 <text style="float:right">2016、2017、2018</text>
 
-广西金秀猫儿山、湖北十堰 <text style="float:right">2015</text>
+广西金秀猫儿山，湖北十堰，辽宁抚顺、清源 <text style="float:right">2015</text>
 
 # **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
 |            |                                                                                                                                                                                                                                                                      |
-|------------|------------------------------------------------------------|
+|-------------|----------------------------------------------------------|
 | 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
 | 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
 | 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
@@ -144,8 +144,10 @@ css: style.css
 
 # **发表文章** <text style="float:right;font-variant:small-caps;">Publication</text>
 
+**共发表 SCI 文章 11 篇，一作 7 篇（含 1 共一），二作 4 篇。其中一篇为国际高水平文章，五年影响因子 14.478。**
+
 ::: {style="text-align:justify"}
-1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069. \
+1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069.\
     <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
 2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (SCI 2区, 5yIF=3.286, 准备投稿)
@@ -196,7 +198,7 @@ css: style.css
 # **自我评价** <text style="float:right;font-variant:small-caps;">Self-evaluation</text>
 
 ::: {style="text-align:justify"}
--   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表多篇 SCI 论文。
+-   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表 11 篇 SCI 论文 (一作 7 篇，二作 4 篇)。
 
 -   熟练掌握 Linux 系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
 
