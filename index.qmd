@@ -143,7 +143,7 @@ css: style.css
 
 # **发表文章** <text style="float:right;font-variant:small-caps;">Publication</text>
 
-**共发表 SCI 文章 11 篇，一作 6 篇（含 1 共一），二作 4 篇。其中一篇为国际高水平文章，五年影响因子 14.478。参编著作 3 部。**
+**共发表 SCI 文章 11 篇，一作 7 篇（含 1 共一），二作 4 篇。其中一篇为国际高水平文章，五年影响因子 14.478。参编著作 3 部。**
 
 ::: {style="text-align:justify"}
 1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069.\
