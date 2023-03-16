@@ -5,7 +5,6 @@ title-block-banner: false
 lang: zh
 mainfont: "HarmonyOS Sans SC"
 theme: cosmo
-toc: false
 editor: visual
 toc: true
 css: style.css
@@ -150,7 +149,7 @@ css: style.css
 1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069.\
     <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
-2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Zhang, C. & Yang, D. The phylogeny and evolutionary timescale of house flies (Diptera: Muscidae) inferred from mitochondrial genomes. **Insects**. (SCI 2区, 5yIF=3.286, 准备投稿)
+2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. & Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. **Insects**, 14, 286. (**SCI 2区**, 5yIF=3.286)
 
 3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4区, 5yIF=0.628)
 
