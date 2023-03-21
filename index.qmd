@@ -161,7 +161,7 @@ css: style.css
 # **自我评价** <text style="float:right;font-variant:small-caps;">Self-evaluation</text>
 
 ::: {style="text-align:justify"}
--   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表 11 篇 SCI 论文 (一作 6 篇，二作 4 篇)。
+-   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表 11 篇 SCI 论文 (一作 7 篇，二作 4 篇)。
 
 -   熟练掌握 Linux 系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
 
