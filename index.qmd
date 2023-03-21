@@ -177,3 +177,5 @@ css: style.css
 :::
 
 # [下载 PDF](lx-cv.pdf) {.download-header style="float:right"}
+
+also see in [flowus](https://flowus.cn/share/f85fad43-e7f5-4419-aa90-5f9fd0be68c2)
