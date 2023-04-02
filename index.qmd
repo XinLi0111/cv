@@ -36,7 +36,7 @@ css: style.css
 ::: {.column style="text-align: center"}
 **博士**
 
-2018年9月--2023年6月
+2018年9月--2023年7月
 
 **中国农业大学**
 
@@ -72,7 +72,7 @@ css: style.css
 1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069.\
     <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
-2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. & Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. **Insects**, 14, 286. (**SCI 2区**, 5yIF=3.286)
+2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. & Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. **Insects**, 14, 286. (**SCI 1区, 中科院2区**, 5yIF=3.286)
 
 3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4区, 5yIF=0.628)
 
@@ -136,7 +136,7 @@ css: style.css
 # **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
 |            |                                                                                                                                                                                                                                                                      |
-|-------------|-----------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 | 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
 | 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
 | 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
