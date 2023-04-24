@@ -32,7 +32,7 @@ css: style.css
 # **教育经历** <text style="float:right;font-variant:small-caps;">Education</text> {style="margin-bottom: 30px"}
 
 ::: columns
-::: {.column style="text-align: center; min-width: 19vh; max-width: 25vh"}
+::: {.column style="text-align: center; width: 245px"}
 **博士**
 
 2018年9月--2023年7月
@@ -42,7 +42,7 @@ css: style.css
 植物保护学院·昆虫学系
 :::
 
-::: {.column .border-lr style="text-align: center; min-width: 28vh"}
+::: {.column .border-lr style="text-align: center; width: 300px"}
 **硕士**
 
 2015年9月--2018年6月
@@ -52,7 +52,7 @@ css: style.css
 生命科学学院·昆虫学系
 :::
 
-::: {.column style="text-align: center; min-width: 21vh; max-width: 25vh"}
+::: {.column style="text-align: center; width: 246px"}
 **本科**
 
 2011年9月--2015年6月
@@ -135,13 +135,14 @@ css: style.css
 # **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
 |            |                                                                                                                                                                                                                                                                      |
-|------------|-----------------------------------------------------------|
+|------------|--------------------------------------------------------|
 | 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
 | 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
 | 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
 | 掌握软件   | Adobe Photoshop, Apptainer, BarcodingR, BioEdit, Clustal Ω, DNAMAN, Docker, Endnote, Geneious, Helicon Focus, IDBA_UD, iTOL, jMOTU, MAFFT, Mega 7, MitoZ, Mrbayes, Muscle, NOVOPlasty, PartitionFinder, Phylosuite, RAxML, Snakemake, Supertree, table2asn, TaxonDNA |
 | 相关证书   | 英语 CET 四级 507 / 六级 519、CET 口语 C+、国家计算机二级、高级中学教师资格证、普通话二级甲等。                                                                                                                                                                      |
 | 相关课程   | 生物信息学、生物统计学、昆虫生物地理、昆虫分类学、专业英语、教育学、心理学、生物学教学论。                                                                                                                                                                           |
+: {tbl-colwidths="\[15,85\]"}
 
 # **所获荣誉** <text style="float:right;font-variant:small-caps;">Award</text>
 
