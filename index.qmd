@@ -71,25 +71,25 @@ css: style.css
 1.  **Li, X.**, & Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. **Systematic Biology**, syac069.\
     <https://doi.org/10.1093/sysbio/syac069> (**SCI 1 区 Top 期刊, 5yIF=14.478**)
 
-2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. & Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. **Insects**, 14, 286. (**SCI 1区, 中科院2区**, 5yIF=3.286)
+2.  **Li, X.**, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. & Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. **Insects**, 14, 286. (**SCI 1 区, 中科院 2 区**, 5yIF=3.286)
 
-3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4区, 5yIF=0.628)
+3.  **Li, X.**, Wang, L., & Yang, D. (2022). The complete mitochondrial genome of *Ornithomya* *biloba* (Diptera, Hippoboscidae). **Mitochondrial DNA Part B**, 7(5), 856--858. (SCI 4 区, 5yIF=0.628)
 
-4.  **Li, X.**, Zhou, J., Wang, L., Hou, P., & Yang, D. (2020). The mitochondrial genome of *Prosthiochaeta* sp. (Diptera: Platystomatidae). **Mitochondrial DNA Part B**, 5(3), 2557--2558. (SCI 4区, 5yIF=0.628)
+4.  **Li, X.**, Zhou, J., Wang, L., Hou, P., & Yang, D. (2020). The mitochondrial genome of *Prosthiochaeta* sp. (Diptera: Platystomatidae). **Mitochondrial DNA Part B**, 5(3), 2557--2558. (SCI 4 区, 5yIF=0.628)
 
-5.  **Li, X.**, Wang, L., Li, Z., Hou, P., & Yang, D. (2019). The mitochondrial genome of *Formicosepsis* sp. (Diptera: Cypselosomatidae). **Mitochondrial DNA Part B**, 4(2), 2140--2141. (SCI 4区, 5yIF=0.628)
+5.  **Li, X.**, Wang, L., Li, Z., Hou, P., & Yang, D. (2019). The mitochondrial genome of *Formicosepsis* sp. (Diptera: Cypselosomatidae). **Mitochondrial DNA Part B**, 4(2), 2140--2141. (SCI 4 区, 5yIF=0.628)
 
-6.  **Li, X.**, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., & Yang, D. (2017). Mitochondrial genome analysis of *Ectophasia* *rotundiventris* (Diptera, Tachinidae). **Mitochondrial DNA Part B**, 2(2), 457--458. (SCI 4区, 5yIF=0.628)
+6.  **Li, X.**, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., & Yang, D. (2017). Mitochondrial genome analysis of *Ectophasia* *rotundiventris* (Diptera, Tachinidae). **Mitochondrial DNA Part B**, 2(2), 457--458. (SCI 4 区, 5yIF=0.628)
 
-7.  Yang, Q.^\#^, **Li, X.**^\#^, Li, Z., Pan, Z., & Yang, D. (2019). The mitochondrial genome analysis of *Trypetoptera punctulata* (Diptera: Sciomyzidae). **Mitochondrial DNA Part B**, 4(1), 97--98. (共一, SCI 4区, 5yIF=0.628)
+7.  Yang, Q.^\#^, **Li, X.**^\#^, Li, Z., Pan, Z., & Yang, D. (2019). The mitochondrial genome analysis of *Trypetoptera punctulata* (Diptera: Sciomyzidae). **Mitochondrial DNA Part B**, 4(1), 97--98. (共一, SCI 4 区, 5yIF=0.628)
 
-8.  Li, M., **Li, X.**, Gao, Y., Cai, X., & Yang, D. (2022). The complete mitochondrial genome of *Hybos grossipes* (Linnaeus, 1767) (Diptera: Empididae). **Mitochondrial DNA Part B**, 7(11), 1913--1915. (SCI 4区, 5yIF=0.628)
+8.  Li, M., **Li, X.**, Gao, Y., Cai, X., & Yang, D. (2022). The complete mitochondrial genome of *Hybos grossipes* (Linnaeus, 1767) (Diptera: Empididae). **Mitochondrial DNA Part B**, 7(11), 1913--1915. (SCI 4 区, 5yIF=0.628)
 
-9.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4区, 5yIF=0.628)
+9.  Liu, J., **Li, X.**, Cai, X., Du, B., Liu, X., & Yang, D. (2021). The complete mitochondrial genome of *Dicraeus* *orientalis* Becker, 1911 (Diptera: Chloropidae). **Mitochondrial DNA Part B**, 6(3), 951--952. (SCI 4 区, 5yIF=0.628)
 
-10. Wang, L., **Li, X.**, & Yang, D. (2019). The complete mitochondrial genome of *Silba* sp. (Diptera: Lonchaeidae). *Mitochondrial DNA Part B*, 4(2), 2694--2695. (SCI 4区, 5yIF=0.628)
+10. Wang, L., **Li, X.**, & Yang, D. (2019). The complete mitochondrial genome of *Silba* sp. (Diptera: Lonchaeidae). *Mitochondrial DNA Part B*, 4(2), 2694--2695. (SCI 4 区, 5yIF=0.628)
 
-11. Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4区, 5yIF=0.628)
+11. Zhang, C., **Li, X.**, Wang, L., Dong, H., & Yang, D. (2019). The complete mitochondrial genome of *Anthomyza* sp. (Diptera: Anthomyzidae). **Mitochondrial DNA Part B**, 4(2), 2813--2814. (SCI 4 区, 5yIF=0.628)
 
 12. **李新** (编委, 作者) (2020). 中国生物物种名录. 昆虫. 双翅目. 短角亚目. 蝇类, 北京: 科学出版社, 1--1331.
 
@@ -134,14 +134,14 @@ css: style.css
 
 # **专业技能** <text style="float:right;font-variant:small-caps;">Professional Skill</text>
 
-|            |                                                                                                                                                                                                                                                                      |
-|----------------|--------------------------------------------------------|
-| 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                   |
-| 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                       |
-| 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                       |
-| 掌握软件   | Adobe Photoshop, Apptainer, BarcodingR, BioEdit, Clustal Ω, DNAMAN, Docker, Endnote, Geneious, Helicon Focus, IDBA_UD, iTOL, jMOTU, MAFFT, Mega 7, MitoZ, Mrbayes, Muscle, NOVOPlasty, PartitionFinder, Phylosuite, RAxML, Snakemake, Supertree, table2asn, TaxonDNA |
-| 相关证书   | 英语 CET 四级 507 / 六级 519、CET 口语 C+、国家计算机二级、高级中学教师资格证、普通话二级甲等。                                                                                                                                                                      |
-| 相关课程   | 生物信息学、生物统计学、昆虫生物地理、昆虫分类学、专业英语、教育学、心理学、生物学教学论。                                                                                                                                                                           |
+|            |                                                                                                                                                                                                                                                                             |
+|------------------|------------------------------------------------------|
+| 分类学     | 标本采集、绘图、拍照、图片处理等。                                                                                                                                                                                                                                          |
+| 分子生物学 | DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。                                                                                                                                                                                              |
+| 计算机技能 | 具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。                                                                                                              |
+| 掌握软件   | Adobe Photoshop, Apptainer, BarcodingR, BioEdit, Clustal Ω, DNAMAN, Docker, Endnote, Geneious, Helicon Focus, IDBA_UD, iTOL, jMOTU, MAFFT, Mega 7, MitoZ, Mrbayes, Muscle, NOVOPlasty, PartitionFinder, Phylosuite, RAxML, Snakemake, Supertree, table2asn, TaxonDNA 等等。 |
+| 相关证书   | 英语 CET 四级 507 / 六级 519、CET 口语 C+、国家计算机二级、高级中学教师资格证、普通话二级甲等。                                                                                                                                                                             |
+| 相关课程   | 生物信息学、生物统计学、昆虫生物地理、人体及动物生理、细胞生物学、昆虫分类学、专业英语、教育学、心理学、生物学教学论。                                                                                                                                                      |
 
 : {tbl-colwidths="\[15,85\]"}
 
@@ -170,13 +170,19 @@ css: style.css
 
 -   熟练掌握办公、科研、编书所用的软件。在读期间参与多部著作的编写，曾深度参与《东北地区寄蝇科昆虫》（科学出版社）一书的编写和格式的建立与修改。
 
--   学习能力强，思维逻辑性强。
-
--   有比较强的团队沟通和组织能力。
+-   学习能力强，思维逻辑性强。有比较强的团队沟通和组织能力。
 
 -   本人也愿意继续学习新的其它领域的知识和技能。
 :::
 
+# **工作计划** <text style="float:right;font-variant:small-caps;">Work Plan</text>
+
+-   研究昆虫分类与系统演化、物种分化率在时空上的变化规律。
+
+-   融入新团队，与新团队开展合作研究。
+
+-   服从学院安排，承担相关课程的教学任务。
+
 # [下载 PDF](lx-cv.pdf) {.download-header style="float:right"}
 
-also see in [flowus](https://flowus.cn/share/f85fad43-e7f5-4419-aa90-5f9fd0be68c2)
+网页版见：[flowus](https://flowus.cn/share/f85fad43-e7f5-4419-aa90-5f9fd0be68c2)
