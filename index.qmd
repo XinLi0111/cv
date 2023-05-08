@@ -11,8 +11,10 @@ css: style.css
 
 # **个人资料** <text style="float:right;font-variant:small-caps;">Personal</text>
 
-![](lx-profile.png){style="float: right;" fig-align="right" width="200"}
+![](lx-profile.png){style="float: right;" fig-align="right" height="210"}
 
+::: columns
+::: column
 **姓  名**： 李新
 
 **性  别**： 男
@@ -22,46 +24,29 @@ css: style.css
 **民  族**： 汉族
 
 **籍  贯**： 山西大同
+:::
 
+::: column
 **政治面貌**： 党员
+
+**住 址**：山西太原
+
+<br>
 
 **邮  箱**： xinli_0111\@126.com
 
 **电  话**： 17810266110
+:::
+:::
 
 # **教育经历** <text style="float:right;font-variant:small-caps;">Education</text> {style="margin-bottom: 30px"}
 
-::: columns
-::: {.column style="text-align: center; width: 220px"}
-**博士**
-
-2018年9月--2023年7月
-
-**中国农业大学**
-
-植物保护学院·昆虫学系
-:::
-
-::: {.column .border-lr style="text-align: center; width: 290px"}
-**硕士**
-
-2015年9月--2018年6月
-
-**沈阳师范大学/中国农业大学 (联培)**
-
-生命科学学院·昆虫学系
-:::
-
-::: {.column style="text-align: center; width: 270px"}
-**本科**
-
-2011年9月--2015年6月
-
-**沈阳大学**
-
-生命科学学院·生物科学系 (师范)
-:::
-:::
+|                  |              |                    |      |                   |
+|------------------|--------------|--------------------|------|-------------------|
+| 2011.09--2015.06 | 沈阳大学     | 生物科学（师范）   | 本科 |                   |
+| 2015.09--2018.06 | 沈阳师范大学 | 动物学             | 硕士 | 导师：张春田 教授 |
+| 2016.03--2018.03 | 中国农业大学 | 联合培养           |      | 导师：杨 定 教授  |
+| 2018.09--2023.07 | 中国农业大学 | 农业昆虫与害虫防治 | 博士 | 导师：杨 定 教授  |
 
 # **发表文章** <text style="float:right;font-variant:small-caps;">Publication</text>
 
@@ -164,7 +149,7 @@ css: style.css
 ::: {style="text-align:justify"}
 -   具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表 11 篇 SCI 论文 (一作 7 篇，二作 4 篇)。
 
--   熟练掌握 Linux 系统基本操作和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
+-   熟练掌握 Linux 系统基本操作、Python脚本编写和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。
 
 -   具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表 SCI 一区文章 1 篇。
 
@@ -178,6 +163,8 @@ css: style.css
 # **工作计划** <text style="float:right;font-variant:small-caps;">Work Plan</text>
 
 -   研究昆虫分类与系统演化、物种分化率在时空上的变化规律。
+
+-   研究生物多样性以及动植物之间的相互作用。
 
 -   融入新团队，与新团队开展合作研究。
 
