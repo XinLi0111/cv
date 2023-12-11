@@ -152,5 +152,19 @@
     "title": "Blast 简单使用",
     "section": "",
     "text": "NCBI 网站上下载安装 Blast+：点击这里下载 Blast+\n\n-outfmt 6 [blast header outfmt6] 查找了一下，列名分别为：\n\nqseqid query (e.g., unknown gene) sequence id\nsseqid subject (e.g., reference genome) sequence id\npident percentage of identical matches\nlength alignment length (sequence overlap)\nmismatch number of mismatches\ngapopen number of gap openings\nqstart start of alignment in query\nqend end of alignment in query\nsstart start of alignment in subject\nsend end of alignment in subject\nevalue expect value\nbitscore bit score"
+  },
+  {
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "",
+    "section": "",
+    "text": "Li, Xin\n\n\n\n\n\n\n\nDoctor\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\nDec 11, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "People/li_xin.html",
+    "href": "People/li_xin.html",
+    "title": "Li, Xin",
+    "section": "",
+    "text": "李 新"
   }
 ]

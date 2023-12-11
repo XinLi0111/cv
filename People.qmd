@@ -1,0 +1,7 @@
+---
+listing: 
+  contents: People
+  categories: true
+  type: default
+  sort: "date desc"
+---

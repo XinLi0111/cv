@@ -4,5 +4,11 @@
     "items": [
       "/posts/blast简单使用.html"
     ]
+  },
+  {
+    "listing": "/People.html",
+    "items": [
+      "/People/li_xin.html"
+    ]
   }
 ]

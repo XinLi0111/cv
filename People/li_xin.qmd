@@ -1,0 +1,13 @@
+---
+editor: visual
+title: "Li, Xin"
+date: "2023-12-11"
+date-modified: "2023-12-11"
+categories: 
+  - Doctor
+  - 2023
+---
+
+李 新
+
+![](../lx-profile.jpg){width="150"}
