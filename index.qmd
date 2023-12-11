@@ -9,7 +9,7 @@ editor: visual
 css: styles.css
 ---
 
-<p style="font-size:40px;font-weight:bold;font-family:'HarmonyOS Sans'" align="center">Insects systematic and phylogeny Lab</p>
+<p style="font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;" align="center">Insects systematic and phylogeny Lab</p>
 
 <p style="display:none">logo</p>
 
