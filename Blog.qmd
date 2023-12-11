@@ -1,0 +1,7 @@
+---
+listing: 
+  contents: posts
+  categories: true
+  type: default
+  sort: "date desc"
+---

@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hans" xml:lang="zh-Hans"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "没有结果",
+    "search-matching-documents-text": "匹配的文档",
+    "search-copy-link-title": "复制搜索链接",
+    "search-hide-matches-text": "隐藏其它匹配结果",
+    "search-more-match-text": "更多匹配结果",
+    "search-more-matches-text": "更多匹配结果",
+    "search-clear-button-title": "清除",
+    "search-detached-cancel-button-title": "取消",
+    "search-submit-button-title": "提交",
+    "search-label": "搜索"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="搜索"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="切换导航" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../Blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../People.html" rel="" target="">
+ <span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../Publication.html" rel="" target="">
+ <span class="menu-text">Publication</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../AboutCN.html" rel="" target="">
+ <span class="menu-text">中文简历</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">该页面内容</h2>
+   
+  <ul>
+  <li><a href="#个人资料-personal" id="toc-个人资料-personal" class="nav-link active" data-scroll-target="#个人资料-personal"><strong>个人资料</strong> <text style="float:right;font-variant:small-caps;">Personal</text></a></li>
+  <li><a href="#教育经历-education" id="toc-教育经历-education" class="nav-link" data-scroll-target="#教育经历-education"><strong>教育经历</strong> <text style="float:right;font-variant:small-caps;">Education</text></a></li>
+  <li><a href="#发表文章-publication" id="toc-发表文章-publication" class="nav-link" data-scroll-target="#发表文章-publication"><strong>发表文章</strong> <text style="float:right;font-variant:small-caps;">Publication</text></a></li>
+  <li><a href="#学术经历-academic-experience" id="toc-学术经历-academic-experience" class="nav-link" data-scroll-target="#学术经历-academic-experience"><strong>学术经历</strong> <text style="float:right;font-variant:small-caps;">Academic Experience</text></a>
+  <ul class="collapse">
+  <li><a href="#参与项目6-项" id="toc-参与项目6-项" class="nav-link" data-scroll-target="#参与项目6-项">参与项目（6 项）</a></li>
+  <li><a href="#学术活动4-次" id="toc-学术活动4-次" class="nav-link" data-scroll-target="#学术活动4-次">学术活动（4 次）</a></li>
+  <li><a href="#野外采集经历7-省" id="toc-野外采集经历7-省" class="nav-link" data-scroll-target="#野外采集经历7-省">野外采集经历（7 省）</a></li>
+  </ul></li>
+  <li><a href="#专业技能-professional-skill" id="toc-专业技能-professional-skill" class="nav-link" data-scroll-target="#专业技能-professional-skill"><strong>专业技能</strong> <text style="float:right;font-variant:small-caps;">Professional Skill</text></a></li>
+  <li><a href="#所获荣誉-award" id="toc-所获荣誉-award" class="nav-link" data-scroll-target="#所获荣誉-award"><strong>所获荣誉</strong> <text style="float:right;font-variant:small-caps;">Award</text></a></li>
+  <li><a href="#自我评价-self-evaluation" id="toc-自我评价-self-evaluation" class="nav-link" data-scroll-target="#自我评价-self-evaluation"><strong>自我评价</strong> <text style="float:right;font-variant:small-caps;">Self-evaluation</text></a></li>
+  <li><a href="#工作计划-work-plan" id="toc-工作计划-work-plan" class="nav-link" data-scroll-target="#工作计划-work-plan"><strong>工作计划</strong> <text style="float:right;font-variant:small-caps;">Work Plan</text></a></li>
+  <li><a href="#下载-pdf" id="toc-下载-pdf" class="nav-link" data-scroll-target="#下载-pdf">下载 PDF</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+<section id="个人资料-personal" class="level1">
+<h1><strong>个人资料</strong> <text style="float:right;font-variant:small-caps;">Personal</text></h1>
+<div class="quarto-figure quarto-figure-right" style="float: right;">
+<figure class="figure">
+<p><img src="lx-profile.jpg" height="210" class="figure-img"></p>
+</figure>
+</div>
+<div class="columns">
+<div class="column">
+<p><strong>姓  名</strong>： 李新</p>
+<p><strong>性  别</strong>： 男</p>
+<p><strong>出生年月</strong>： 1994.01</p>
+<p><strong>民  族</strong>： 汉族</p>
+<p><strong>籍  贯</strong>： 山西大同</p>
+</div><div class="column">
+<p><strong>政治面貌</strong>： 党员</p>
+<p><strong>住  址</strong>：山西太原</p>
+<p><br></p>
+<p><strong>邮  箱</strong>： xinli_0111@126.com</p>
+<p><strong>电  话</strong>： 17810266110</p>
+</div>
+</div>
+</section>
+<section id="教育经历-education" class="level1" style="margin-bottom: 30px">
+<h1 style="margin-bottom: 30px"><strong>教育经历</strong> <text style="float:right;font-variant:small-caps;">Education</text></h1>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>2011.09–2015.06</td>
+<td>沈阳大学</td>
+<td>生物科学（师范）</td>
+<td>本科</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2015.09–2018.06</td>
+<td>沈阳师范大学</td>
+<td>动物学</td>
+<td>硕士</td>
+<td>导师：张春田 教授</td>
+</tr>
+<tr class="odd">
+<td>2016.03–2018.03</td>
+<td>中国农业大学</td>
+<td>联合培养</td>
+<td></td>
+<td>导师：杨 定 教授</td>
+</tr>
+<tr class="even">
+<td>2018.09–2023.07</td>
+<td>中国农业大学</td>
+<td>农业昆虫与害虫防治</td>
+<td>博士</td>
+<td>导师：杨 定 教授</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="发表文章-publication" class="level1">
+<h1><strong>发表文章</strong> <text style="float:right;font-variant:small-caps;">Publication</text></h1>
+<p><strong>共发表 SCI 文章 11 篇，一作 7 篇（含 1 共一），二作 4 篇。其中一篇为国际高水平文章，五年影响因子 14.478。参编著作 4 部。</strong></p>
+<div style="text-align:justify">
+<ol type="1">
+<li><p><strong>Li, X.</strong>, &amp; Wiens, J. J. (2022). Estimating Global Biodiversity: the Role of Cryptic Insect Species. <strong>Systematic Biology</strong>, syac069.<br>
+<a href="https://doi.org/10.1093/sysbio/syac069" class="uri">https://doi.org/10.1093/sysbio/syac069</a> (<strong>SCI 1 区 Top 期刊, 5yIF=14.478</strong>)</p></li>
+<li><p><strong>Li, X.</strong>, Cai, X., Ding, S., Wang, L., Li, W., Liu, X., Zhang, C. &amp; Yang, D. (2023). Phylogeny and evolutionary timescale of Muscidae (Diptera: Calyptratae) inferred from mitochondrial genomes. <strong>Insects</strong>, 14, 286. (<strong>SCI 1 区, 中科院 2 区</strong>, 5yIF=3.286)</p></li>
+<li><p><strong>Li, X.</strong>, Wang, L., &amp; Yang, D. (2022). The complete mitochondrial genome of <em>Ornithomya</em> <em>biloba</em> (Diptera, Hippoboscidae). <strong>Mitochondrial DNA Part B</strong>, 7(5), 856–858. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p><strong>Li, X.</strong>, Zhou, J., Wang, L., Hou, P., &amp; Yang, D. (2020). The mitochondrial genome of <em>Prosthiochaeta</em> sp. (Diptera: Platystomatidae). <strong>Mitochondrial DNA Part B</strong>, 5(3), 2557–2558. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p><strong>Li, X.</strong>, Wang, L., Li, Z., Hou, P., &amp; Yang, D. (2019). The mitochondrial genome of <em>Formicosepsis</em> sp. (Diptera: Cypselosomatidae). <strong>Mitochondrial DNA Part B</strong>, 4(2), 2140–2141. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p><strong>Li, X.</strong>, Ding, S. M., Hou, P., Liu, X. Y., Zhang, C. T., &amp; Yang, D. (2017). Mitochondrial genome analysis of <em>Ectophasia</em> <em>rotundiventris</em> (Diptera, Tachinidae). <strong>Mitochondrial DNA Part B</strong>, 2(2), 457–458. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p>Yang, Q.<sup>#</sup>, <strong>Li, X.</strong><sup>#</sup>, Li, Z., Pan, Z., &amp; Yang, D. (2019). The mitochondrial genome analysis of <em>Trypetoptera punctulata</em> (Diptera: Sciomyzidae). <strong>Mitochondrial DNA Part B</strong>, 4(1), 97–98. (共一, SCI 4 区, 5yIF=0.628)</p></li>
+<li><p>Li, M., <strong>Li, X.</strong>, Gao, Y., Cai, X., &amp; Yang, D. (2022). The complete mitochondrial genome of <em>Hybos grossipes</em> (Linnaeus, 1767) (Diptera: Empididae). <strong>Mitochondrial DNA Part B</strong>, 7(11), 1913–1915. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p>Liu, J., <strong>Li, X.</strong>, Cai, X., Du, B., Liu, X., &amp; Yang, D. (2021). The complete mitochondrial genome of <em>Dicraeus</em> <em>orientalis</em> Becker, 1911 (Diptera: Chloropidae). <strong>Mitochondrial DNA Part B</strong>, 6(3), 951–952. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p>Wang, L., <strong>Li, X.</strong>, &amp; Yang, D. (2019). The complete mitochondrial genome of <em>Silba</em> sp. (Diptera: Lonchaeidae). <em>Mitochondrial DNA Part B</em>, 4(2), 2694–2695. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p>Zhang, C., <strong>Li, X.</strong>, Wang, L., Dong, H., &amp; Yang, D. (2019). The complete mitochondrial genome of <em>Anthomyza</em> sp. (Diptera: Anthomyzidae). <strong>Mitochondrial DNA Part B</strong>, 4(2), 2813–2814. (SCI 4 区, 5yIF=0.628)</p></li>
+<li><p><strong>李新</strong> (编委, 作者) (2020). 中国生物物种名录. 昆虫. 双翅目. 短角亚目. 蝇类, 北京: 科学出版社, 1–1331.</p></li>
+<li><p><strong>李新</strong> (作者): 刺股蝇科. 杨定, 姚刚等 (2022). <strong>浙江昆虫志第九卷双翅目短角亚目</strong>, 北京: 科学出版社, 1–402 + 24图版.</p></li>
+<li><p><strong>李新</strong> (编委, 作者): 寄蝇亚科, 追寄蝇亚科部分, 总论, 图版部分. 张春田等 (2016). <strong>东北地区寄蝇科昆虫</strong>, 北京: 科学出版社, 1–698 + 14 图版.</p></li>
+<li><p>侯鹏, 张春田, 王强, 范宏烨, <strong>李新</strong>. 寄蝇科, 329–353. 石福明, 王建军等 (2018). <strong>历山昆虫与蛛形动物</strong>, 北京: 科学出版社, 1–613 + 12 图版.</p></li>
+</ol>
+</div>
+</section>
+<section id="学术经历-academic-experience" class="level1">
+<h1><strong>学术经历</strong> <text style="float:right;font-variant:small-caps;">Academic Experience</text></h1>
+<section id="参与项目6-项" class="level2">
+<h2 class="anchored" data-anchor-id="参与项目6-项">参与项目（6 项）</h2>
+<ol type="1">
+<li><p>国家自然科学基金重点项目 32130012，脉翅总目昆虫的系统演化：争议节点类群系统地位的确立及多样性的演化格局 <text style="float:right">2022–2026</text></p></li>
+<li><p>科技部科技基础资源调查专项课题 2019FY1004002，双翅目半翅目草原有害昆虫多样性调查 <text style="float:right">2020-2024</text></p></li>
+<li><p>国家自然科学基金面上项目 31970444，中国驼舞虻亚科分类和系统发育研究 <text style="float:right">2020–2023</text></p></li>
+<li><p>国家自然科学基金应急管理项目 31750002，中国动物志双翅目寄蝇科突颜寄蝇亚科 <text style="float:right">2018–2022</text></p></li>
+<li><p>科技部国家重点研发计划-重点专项子课题 2017YFD0201001-1，双翅目及脉翅目天敌资源挖掘与信息/数据库构建 <text style="float:right">2017–2020</text></p></li>
+<li><p>国家科技基础条件平台工作重点项目，动物标本标准化整理与数字化表达 2005DKA21402 <text style="float:right">2017、2018、2019</text></p></li>
+</ol>
+</section>
+<section id="学术活动4-次" class="level2">
+<h2 class="anchored" data-anchor-id="学术活动4-次">学术活动（4 次）</h2>
+<p>生物系统学论坛 <text style="float:right">2016、2017、2018</text></p>
+<p>中国昆虫学会分类与区系学术会议 <text style="float:right">2015</text></p>
+</section>
+<section id="野外采集经历7-省" class="level2">
+<h2 class="anchored" data-anchor-id="野外采集经历7-省">野外采集经历（7 省）</h2>
+<p>青海门源、互助 <text style="float:right">2019</text></p>
+<p>陕西秦岭山脉，北京门头沟灵山 <text style="float:right">2018</text></p>
+<p>云南绿春黄连山 <text style="float:right">2016、2017、2018</text></p>
+<p>广西金秀猫儿山，湖北十堰，辽宁抚顺、清源 <text style="float:right">2015</text></p>
+</section>
+</section>
+<section id="专业技能-professional-skill" class="level1">
+<h1><strong>专业技能</strong> <text style="float:right;font-variant:small-caps;">Professional Skill</text></h1>
+<table class="table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 85%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>分类学</td>
+<td>标本采集、绘图、拍照、图片处理等。</td>
+</tr>
+<tr class="even">
+<td>分子生物学</td>
+<td>DNA 提取、PCR 扩增、高通量测序组装、生物信息学分析、系统发育分析以及相关分析。</td>
+</tr>
+<tr class="odd">
+<td>计算机技能</td>
+<td>具有 Linux 基础，在校期间维护 3 台服务器的系统安装（Ubuntu 和 CentOS 系统）及相关分析软件；编写多个简化分析的 Python 程序脚本；可以使用 R 语言进行分析和作图。</td>
+</tr>
+<tr class="even">
+<td>掌握软件</td>
+<td>Adobe Photoshop, Apptainer, BarcodingR, BioEdit, Clustal Ω, DNAMAN, Docker, Endnote, Geneious, Helicon Focus, IDBA_UD, iTOL, jMOTU, MAFFT, Mega 7, MitoZ, Mrbayes, Muscle, NOVOPlasty, PartitionFinder, Phylosuite, RAxML, Snakemake, Supertree, table2asn, TaxonDNA 等等。</td>
+</tr>
+<tr class="odd">
+<td>相关证书</td>
+<td>英语 CET 四级 507 / 六级 519、CET 口语 C+、国家计算机二级、高级中学教师资格证、普通话二级甲等。</td>
+</tr>
+<tr class="even">
+<td>相关课程</td>
+<td>生物信息学、生物统计学、昆虫生物地理、人体及动物生理、细胞生物学、昆虫分类学、专业英语、教育学、心理学、生物学教学论。</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="所获荣誉-award" class="level1">
+<h1><strong>所获荣誉</strong> <text style="float:right;font-variant:small-caps;">Award</text></h1>
+<p>中国农业大学<strong>·</strong>大北农励志奖学金 <text style="float:right">2021–2022学年</text></p>
+<p>中国农业大学<strong>·</strong>寻梦未来奖学金 <text style="float:right">2019–2020学年</text></p>
+<p>中国农业大学<strong>·</strong>学业一等奖学金 <text style="float:right">2018–2019学年</text></p>
+<p>中国教育部<strong>·</strong>研究生国家奖学金 <text style="float:right">2017年</text></p>
+<p>沈阳师范大学<strong>·</strong>学业二等奖学金 <text style="float:right">2016–2017学年</text></p>
+<p>沈阳师范大学<strong>·</strong>学业三等奖学金 <text style="float:right">2015–2016学年</text></p>
+</section>
+<section id="自我评价-self-evaluation" class="level1">
+<h1><strong>自我评价</strong> <text style="float:right;font-variant:small-caps;">Self-evaluation</text></h1>
+<div style="text-align:justify">
+<ul>
+<li><p>具备昆虫系统分类学专业基础知识以及分子系统发育分析的相关知识。已发表 11 篇 SCI 论文 (一作 7 篇，二作 4 篇)。</p></li>
+<li><p>熟练掌握 Linux 系统基本操作、Python脚本编写和系统发育分析相关软件的安装和使用。在校期间，创建实验室共享知识库。编写系统发育分析相关教程 20 余篇，整理 60 余篇系统发育分析所需 Linux 系统的相关知识点。</p></li>
+<li><p>具有良好的英语表达和写作能力。与国外导师 John J. Wiens（亚利桑那大学）合作两年，发表 SCI 一区文章 1 篇。</p></li>
+<li><p>熟练掌握办公、科研、编书所用的软件。在读期间参与多部著作的编写，曾深度参与《东北地区寄蝇科昆虫》（科学出版社）一书的编写和格式的建立与修改。</p></li>
+<li><p>学习能力强，思维逻辑性强。有比较强的团队沟通和组织能力。</p></li>
+<li><p>本人也愿意继续学习新的其它领域的知识和技能。</p></li>
+</ul>
+</div>
+</section>
+<section id="工作计划-work-plan" class="level1">
+<h1><strong>工作计划</strong> <text style="float:right;font-variant:small-caps;">Work Plan</text></h1>
+<ul>
+<li><p>研究昆虫分类与系统演化、物种分化率在时空上的变化规律。</p></li>
+<li><p>研究生物多样性以及动植物之间的相互作用。</p></li>
+<li><p>融入新团队，与新团队开展合作研究。</p></li>
+<li><p>服从学院安排，承担相关课程的教学任务。</p></li>
+</ul>
+</section>
+<section id="下载-pdf" class="level1 download-header" style="float:right">
+<h1 class="download-header" style="float:right"><a href="lx-cv.pdf">下载 PDF</a></h1>
+<p>网页版见：<a href="https://flowus.cn/share/f85fad43-e7f5-4419-aa90-5f9fd0be68c2">flowus</a></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "已复制");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "已复制");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
