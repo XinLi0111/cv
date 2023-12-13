@@ -2,10 +2,7 @@
 title: "李新 | Li, Xin"
 format: html
 title-block-banner: true
-lang: en
-mainfont: "HarmonyOS Sans SC"
-theme: cosmo
-editor: visual
+editor: source
 css: styles.css
 toc: false
 ---

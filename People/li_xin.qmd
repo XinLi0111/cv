@@ -8,6 +8,6 @@ categories:
   - 2023
 ---
 
-李 新
+# 李 新
 
 ![](../lx-profile.jpg){width="150"}
