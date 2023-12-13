@@ -1,6 +1,6 @@
 ---
 listing: 
-  contents: People
+  contents: people
   categories: true
   type: default
   sort: "date desc"

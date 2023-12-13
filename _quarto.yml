@@ -12,14 +12,14 @@ website:
       - text: Home
         href: index.qmd
       - text: People
-        href: People.qmd
+        href: people.qmd
       - text: Publication
-        href: Publication.qmd
+        href: publication.qmd
       - text: 中文简历
-        href: AboutCN.qmd
+        href: about_cn.qmd
     right:
       - text: 博客
-        href: Blog.qmd
+        href: blog.qmd
 
 format:
   html:
