@@ -1,0 +1,25 @@
+---
+title: "李新 | Li, Xin"
+format: html
+title-block-banner: true
+editor: source
+css: styles.css
+toc: false
+---
+
+<p style="font-size:40px;font-weight:bold;font-family:'HarmonyOS Sans'" align="center">Insects systematic and phylogeny Lab</p>
+
+
+<p style="display:none">logo</p>
+
+## Interest
+
+-   Systematics and phylogenetic exploration of Diptera
+
+-   The global species biodiversity
+
+## Address
+
+Institute of Applied Biology\
+Shanxi University\
+No. 63, South Central East Street, Taiyuan, Shanxi, China. 030031
