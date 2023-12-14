@@ -1,20 +1,14 @@
 [
   {
-    "listing": "/Blog.html",
-    "items": [
-      "/posts/blast简单使用.html"
-    ]
-  },
-  {
-    "listing": "/People.html",
-    "items": [
-      "/People/li_xin.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/li_xin.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/blast简单使用.html"
     ]
   }
 ]

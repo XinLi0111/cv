@@ -15,11 +15,12 @@ website:
         href: people.qmd
       - text: Publication
         href: publication.qmd
-      - text: 中文简历
-        href: about_cn.qmd
-    right:
-      - text: 博客
+      - text: Blog
         href: blog.qmd
+    right:
+      - text: 简历
+        href: about_cn.qmd
+      
 
 format:
   html:

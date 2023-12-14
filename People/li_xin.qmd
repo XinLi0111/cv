@@ -10,4 +10,4 @@ categories:
 
 # 李 新
 
-![](../lx-profile.jpg){width="150"}
+![](../assets/lx-profile.jpg){width="125"}

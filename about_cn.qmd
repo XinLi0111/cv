@@ -4,7 +4,7 @@ css: styles.css
 ---
 
 <text style="font-size:50px;font-weight:bold; font-family:'HarmonyOS Sans'">李&emsp;新</text>
-![](lx-profile.jpg){style="float: right;margin-left:18px" fig-align="top" height="210"}
+![](assets/lx-profile.jpg){style="float: right;margin-left:18px" fig-align="top" height="210"}
 
 男，博士，山西大学应用生物学研究所，讲师。
 
