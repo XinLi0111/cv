@@ -1,5 +1,5 @@
 ---
-title: "李新 | Li, Xin"
+title: "Insect systematic & phylogeny Lab."
 format: html
 title-block-banner: true
 editor: source
@@ -7,7 +7,7 @@ css: styles.css
 toc: false
 ---
 
-<div style="align:left;font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;"> <img src="logo.webp" style="vertical-align:middle;width:80px"/> Insect systematic & phylogeny Lab
+<div style="align:left;font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;"> <img src="logo.webp" style="vertical-align:middle;width:80px;padding-right:16px;margin-top:-8px"/>李 新 | Li, Xin
 </div>
 </br>
 
