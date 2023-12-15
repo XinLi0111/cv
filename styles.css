@@ -15,8 +15,15 @@ h2 {
 }
 
 
-
-
+/* blog list pic height */
+div.quarto-post .thumbnail img {
+  margin-top: none;
+  object-fit: contain;
+  height: 100px;
+}
+#listing-listing > div.list.quarto-listing-default > div > div.thumbnail > p:nth-child(1) {
+  display: none;
+}
 
 
 
