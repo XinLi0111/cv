@@ -7,16 +7,16 @@ css: styles.css
 toc: false
 ---
 
-<p style="font-size:40px;font-weight:bold;font-family:'HarmonyOS Sans'" align="center">Insects systematic and phylogeny Lab</p>
-
-
-<p style="display:none">logo</p>
+<div style="align:left;font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;"> <img src="logo.webp" style="vertical-align:middle;width:80px"/> Insect systematic & phylogeny Lab
+</div>
+</br>
 
 ## Interest
 
 -   Systematics and phylogenetic exploration of Diptera
 
 -   The global species biodiversity
+
 
 ## Address
 

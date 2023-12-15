@@ -5,6 +5,7 @@ lang: en
 mainfont: "HarmonyOS Sans SC"
 
 website:
+  favicon: logo.webp
   title: ""
   navbar:
     background: primary
