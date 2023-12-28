@@ -5,10 +5,11 @@ lang: en
 mainfont: "HarmonyOS Sans SC"
 
 website:
-  favicon: logo.webp
+  favicon: assets/logo-2023-12-18.svg
   title: ""
   navbar:
     background: primary
+    logo: assets/logo-2023-12-18.png
     left:
       - text: Home
         href: index.qmd

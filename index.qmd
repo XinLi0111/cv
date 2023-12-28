@@ -7,8 +7,9 @@ css: styles.css
 toc: false
 ---
 
-<div style="align:left;font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;"> <img src="logo.webp" style="vertical-align:middle;width:80px;padding-right:16px;margin-top:-8px"/>李 新 | Li, Xin
+<div style="display:none;align:left;font-size:40px;font-weight:bold;font-family:&#39;HarmonyOS Sans&#39;"> <img src="logo-2023-12-18.svg" style="vertical-align:middle;width:80px;padding-right:16px;margin-top:-8px"/>李 新 | Li, Xin
 </div>
+# 李新 | Li, Xin
 </br>
 
 ## Interest
@@ -22,4 +23,4 @@ toc: false
 
 Institute of Applied Biology\
 Shanxi University\
-No. 63, South Central East Street, Taiyuan, Shanxi, China. 030031
+No. 63, South Central Loop East Street, Taiyuan, Shanxi, China. 030031

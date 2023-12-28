@@ -1,6 +1,7 @@
 ---
 toc-title: "目录"
 css: styles.css
+  
 ---
 
 <text style="font-size:50px;font-weight:bold; font-family:'HarmonyOS Sans'">李&emsp;新</text>
@@ -8,7 +9,7 @@ css: styles.css
 
 男，博士，山西大学应用生物学研究所，讲师。
 
-2023年毕业于中国农业大学，获得博士学位，同年入职山西大学应用生物学研究所工作，主要研究方向为昆虫系统与进化、生物多样性分布格局。
+2023年毕业于中国农业大学，获得博士学位，同年入职山西大学应用生物学研究所工作，主要研究方向为昆虫系统与进化。
 
 
 
