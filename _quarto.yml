@@ -11,17 +11,15 @@ website:
     background: primary
     logo: assets/logo-2023-12-18.png
     left:
-      - text: Home
-        href: index.qmd
       - text: People
         href: people.qmd
       - text: Publication
         href: publication.qmd
+      - text: 简历 | CV
+        href: about_cn.qmd
+    right:
       - text: Blog
         href: blog.qmd
-    right:
-      - text: 简历
-        href: about_cn.qmd
       
 
 format:
