@@ -1,5 +1,5 @@
 ---
-title: "Insect systematic & phylogeny Lab."
+title: "Insect systematics & phylogeny Lab."
 format: html
 title-block-banner: true
 editor: source
